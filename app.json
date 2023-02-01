@@ -1,15 +1,4 @@
 {
-  "stack" : "heroku-20"
-
-  "environments": {
-    "test": {
-      "formation": {
-          "test": {
-            "quantity": 1,
-            "size": "standard-1x"
-          }
-      }
-   }
-}
+  "stack" : "heroku-22"
 
 }
